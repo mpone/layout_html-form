@@ -2,10 +2,10 @@
   margin-bottom: 20px;
 }
 
-.block__element {
+.form-block__element {
   margin-bottom: 10px;
 }
 
-.form-block .block__element:last-child {
+.form-block .form-block__element:last-child {
   margin-bottom: 0;
 }
